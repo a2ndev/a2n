@@ -1,0 +1,3 @@
+[submodule "themes/binario"]
+	path = themes/binario
+	url = git@github.com:avanathan/Binario.git
