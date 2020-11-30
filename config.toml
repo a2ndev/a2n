@@ -1,0 +1,16 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "A2N"
+theme = "binario"
+
+[Author] # Used in authorbox
+  name = "A2N"
+  bio = "A2N's true identity is unknown. Maybe he is an experienced common developer"
+  avatar = "images/a2n-logo.png"
+
+[Params]
+colorTheme = "dark-red"
+
+[Params.Entry]
+  meta = ["date", "categories"] # Enable meta fields in given order
+  toc = false # Enable Table of Contents
