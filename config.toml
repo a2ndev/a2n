@@ -1,4 +1,4 @@
-baseURL = "a2ndev.github.io"
+baseURL = "https://a2ndev.github.io/"
 languageCode = "en-us"
 title = "A2N"
 theme = "binario"
@@ -14,3 +14,5 @@ colorTheme = "dark-red"
 [Params.Entry]
   meta = ["date", "categories"] # Enable meta fields in given order
   toc = false # Enable Table of Contents
+[permalinks]
+  post = "/:year/:month/:slug/"
