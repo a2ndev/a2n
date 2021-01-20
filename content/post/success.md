@@ -10,7 +10,7 @@ tags:
   - "Engineering"
 ---
 
-What is something we find in a ***Successful Team***? Is it skillset, diversity, raw talent? or something else?
+What do we find in a ***Successful Team***? Skillset, Diversity, Raw talent? or something else?
 <!--more-->
 
 After working a couple of decades in Software industry both as Individual Contributor and in management, I often think deeply about how to keep the culture of my teams at the best. Culture is a variable and not a constant. It changes with time and maturity of team/company etc., For eg. a startup may have different set of values vs that of a huge enterprise. But people give their best when they work with people whom they "Trust".  
