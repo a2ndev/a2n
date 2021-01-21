@@ -2,6 +2,7 @@
 title: Hugo Syntax Highlighting
 description: Syntax Highlighting example test article that shows how to creating and highlighting code blocks in Hugo-generated site
 date: 2020-11-18
+draft: true
 categories:
   - "Development"
 tags:
