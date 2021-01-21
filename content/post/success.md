@@ -1,7 +1,7 @@
 ---
 title: Successful team!
 description: What is something we find in a successful team? Is it diversity? or something else?
-date: 2020-11-28
+date: 2020-11-18
 categories:
   - "Development"
   - "Management"
