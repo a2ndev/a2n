@@ -1,7 +1,7 @@
 baseURL = "https://a2ndev.github.io/"
 languageCode = "en"
 defaultContentLanguage = "en" 
-title = "Distributed thoughts!"
+title = "A2N"
 theme = "binario"
 enableEmoji = true
 

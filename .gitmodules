@@ -5,3 +5,9 @@
 	path = public
 	url = git@github.com:a2ndev/a2ndev.github.io.git
 	branch = main
+[submodule "themes/hugo-theme-even"]
+	path = themes/hugo-theme-even
+	url = git@github.com:a2ndev/hugo-theme-even.git
+[submodule "themes/Mainroad"]
+	path = themes/Mainroad
+	url = git@github.com:a2ndev/Mainroad.git
