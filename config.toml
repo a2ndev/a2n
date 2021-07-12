@@ -1,7 +1,7 @@
 baseURL = "https://a2ndev.github.io/"
 languageCode = "en"
 defaultContentLanguage = "en" 
-title = "Distributed thoughts!"
+title = "Random thoughts distributed!"
 theme = "binario"
 enableEmoji = true
 
@@ -16,5 +16,6 @@ colorTheme = "dark-red"
 [Params.Entry]
   meta = ["date", "categories"] # Enable meta fields in given order
   toc = false # Enable Table of Contents
+
 [permalinks]
   post = "/:year/:month/:slug/"
